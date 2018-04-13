@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IocDemo</string>
+    <string name="btn_down">按下</string>
+    <string name="btn_down_long">长按</string>
+</resources>
